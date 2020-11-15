@@ -1,4 +1,4 @@
-# https://github.com/P3TERX/ActionsVM
+# https://github.com/rdp-studio/ActionsVM
 
 name: macOS (ngrok)
 
@@ -17,7 +17,7 @@ jobs:
       run: source macos-start.sh
 
     - name: Start SSH via ngrok
-      uses: P3TERX/ssh2actions@main
+      uses: rdp-studio/ssh2actions@main
       with:
         mode: ngrok
       env:
