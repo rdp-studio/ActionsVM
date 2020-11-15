@@ -1,4 +1,4 @@
-# https://github.com/P3TERX/ActionsVM
+# https://github.com/rdp-studio/ActionsVM
 
 name: Ubuntu (tmate)
 
@@ -17,7 +17,7 @@ jobs:
       run: source ubuntu-start.sh
 
     - name: Start SSH via tmate
-      uses: P3TERX/ssh2actions@main
+      uses: rdp-studio/ssh2actions@main
       env:
         TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
         TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
