@@ -17,7 +17,7 @@ jobs:
       run: source macos-start.sh
 
     - name: Start SSH via tmate
-      uses: P3TERX/ssh2actions@main
+      uses: rdp-studio/ssh2actions@main
       env:
         TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
         TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
