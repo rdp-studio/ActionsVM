@@ -39,4 +39,4 @@ You can find Telegram Bot related documents [here](https://core.telegram.org/bot
 
 ## Licence
 
-[MIT](https://github.com/rdp-studio/ActionsVM/blob/main/LICENSE) © P3TERX
+[MIT](https://github.com/rdp-studio/ActionsVM/blob/main/LICENSE) © rdp-studio
