@@ -1,14 +1,14 @@
 # ActionsVM
 
-[![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=License)](https://github.com/P3TERX/ActionsVM/blob/master/LICENSE)
-![GitHub Stars](https://img.shields.io/github/stars/P3TERX/ActionsVM.svg?style=flat-square&label=Stars&logo=github)
-![GitHub Forks](https://img.shields.io/github/forks/P3TERX/ActionsVM.svg?style=flat-square&label=Forks&logo=github)
+[![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=License)](https://github.com/rdp-studio/ActionsVM/blob/master/LICENSE)
+![GitHub Stars](https://img.shields.io/github/stars/rdp-studio/ActionsVM.svg?style=flat-square&label=Stars&logo=github)
+![GitHub Forks](https://img.shields.io/github/forks/rdp-studio/ActionsVM.svg?style=flat-square&label=Forks&logo=github)
 
 Connect to GitHub Actions via SSH, get macOS or Linux VM for free.
 
 ## Usage
 
-- Click the [Use this template](https://github.com/P3TERX/ActionsVM/generate) button to create a new repository.
+- Click the [Use this template](https://github.com/rdp-studio/ActionsVM/generate) button to create a new repository.
 - Select `macOS (tmate)` or `Ubuntu (tmate)` on the Actions page.
 - Click the `Run workflow` button.
 - Get the connection info in the log.
@@ -39,4 +39,4 @@ You can find Telegram Bot related documents [here](https://core.telegram.org/bot
 
 ## Licence
 
-[MIT](https://github.com/P3TERX/ActionsVM/blob/main/LICENSE) © P3TERX
+[MIT](https://github.com/rdp-studio/ActionsVM/blob/main/LICENSE) © P3TERX
